@@ -10,3 +10,7 @@ https://github.com/yohansp/go-biometric-api
 ## Demo Android Video
 https://github.com/yohansp/BioAndroidDemo/assets/93885/4f1da2a1-1bc4-4d13-8ce6-7d7d6e74ddb9
 
+<br/>
+
+## The client demo for the iOS Version, can be see at this link
+https://github.com/yohansp/BioIOSDemo
